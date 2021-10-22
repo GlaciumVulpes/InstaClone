@@ -6,6 +6,10 @@
         <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_login2.xml" value="0.22" />
         <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_main.xml" value="0.33611111111111114" />
         <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_signup.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/fragment_compose.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/fragment_posts.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/layout/item_post.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.22" />
         <entry key="..\:/Users/jakew/AndroidStudioProjects/InstaClone/app/src/main/res/xml/fileprovider.xml" value="0.33794871794871795" />
       </map>
     </option>

@@ -5,4 +5,5 @@
     <!-- Paste BOTH strings as required -->
     <string name="back4app_app_id">4brdVuZS3GFZPOR8y1Q0OewZP3vc9Ju3z4wArhDQ</string>
     <string name="back4app_client_key">8F2EuB9QkwlfGjEy8mpqhB1NWgEfwZ7Pbxd1i0Yn</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
